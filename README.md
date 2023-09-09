@@ -5,19 +5,19 @@
 ## Preview
 ### Screenshots
 _____
-![Screenshot_1](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/5d27cf2a-5f8e-4f5f-9386-9cad19881936)
+![Screenshot_1](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/9f78411a-f0b5-4be0-8031-bf3f04d9a200)
 _____
-![Screenshot_2](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/b4d77cd9-b1ec-4272-929d-e288d27922df)
+![Screenshot_2](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/d004a1f5-8d79-442e-8b08-2990f454a30a)
 _____
-![Screenshot_3](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/000470fe-4962-4a34-82ca-7a52253904bc)
+![Screenshot_3](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/505151cb-cbed-4f7a-9b1d-b0056b0dcad8)
 _____
-![Screenshot_4](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/18be1b81-a9b3-4b03-80d5-f5107886f92d)
+![Screenshot_4](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/3358cb34-98a7-4b1c-b57c-65c29081fc79)
 _____
-![Screenshot_5](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/60e190bf-ec38-4d5f-80f6-1dcbaf90d7e2)
+![Screenshot_5](https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/99363e55-c16f-49ae-a9e8-6903c996d649)
 _____
 
 ### Demo Video
-https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/8268ae19-2efc-4bcc-b812-666a288fe8b7
+https://github.com/qpashkaaa/MK-TSTU-director-dashboard/assets/95401099/0cac6107-3d7a-407c-a186-ef805a0acf91
 _____
 
 
