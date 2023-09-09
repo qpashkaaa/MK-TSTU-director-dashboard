@@ -1,5 +1,5 @@
 # What It This?
-  **Web App written in HTML, JS, CSS, PHP using MySQL(phpMyAdmin)**
+  **Dashboard written in HTML, JS, CSS, PHP using MySQL(phpMyAdmin)**
   >*This application was created only for local demonstration. This is the dashboard of the director of АО "ТЗ" Ревтруд"(Tambov), written using HTML, JavaScript, CSS, PHP, MySQL(phpMyAdmin). Allows you to register, log in, and view the necessary information. This dashboard was implemented in order to master the curriculum of MK TSTU (Tambov).*
 
 ## Preview
